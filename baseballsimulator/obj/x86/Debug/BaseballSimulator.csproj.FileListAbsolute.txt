@@ -1,0 +1,8 @@
+C:\Users\Billyz0914\Dropbox\cSharp\BaseballSimulator\BaseballSimulator\bin\Debug\BaseballSimulator.exe
+C:\Users\Billyz0914\Dropbox\cSharp\BaseballSimulator\BaseballSimulator\bin\Debug\BaseballSimulator.pdb
+C:\Users\Billyz0914\Dropbox\cSharp\BaseballSimulator\BaseballSimulator\obj\x86\Debug\BaseballSimulator.Properties.Resources.resources
+C:\Users\Billyz0914\Dropbox\cSharp\BaseballSimulator\BaseballSimulator\obj\x86\Debug\BaseballSimulator.csproj.GenerateResource.Cache
+C:\Users\Billyz0914\Dropbox\cSharp\BaseballSimulator\BaseballSimulator\obj\x86\Debug\BaseballSimulator.exe
+C:\Users\Billyz0914\Dropbox\cSharp\BaseballSimulator\BaseballSimulator\obj\x86\Debug\BaseballSimulator.pdb
+C:\Users\Billyz0914\Dropbox\cSharp\BaseballSimulator\BaseballSimulator\obj\x86\Debug\BaseballSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Billyz0914\Dropbox\cSharp\BaseballSimulator\BaseballSimulator\obj\x86\Debug\BaseballSimulator.ScoreBoard.resources
